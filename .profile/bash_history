@@ -1,0 +1,5 @@
+conda activate base
+/opt/conda/bin/python /workspaces/countdown-qd221-exe/ex3_select_letters.py
+python ex3_select_letters.py 
+/opt/conda/bin/python /workspaces/countdown-qd221-exe/ex4_check_calculation.py
+/opt/conda/bin/python /workspaces/countdown-qd221-exe/play_countdown.py
